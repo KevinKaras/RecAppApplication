@@ -1,9 +1,13 @@
 export const Questions = ({questions, deleteQuestion}) => {
-    return 'Questions Go Here'
+    return (
+        <div></div>
+    )
   };
 
   // /src/components/QuestionForm.js
 
   export const QuestionForm = ({submitQuestion}) => {
-    return 'Form Goes Here'
+    return (
+        <div></div>
+    )
   };
